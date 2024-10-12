@@ -1,0 +1,7 @@
+streamlit
+python-docx
+# fpdf4
+PyPDF2
+transformers
+torch
+docx2pdf
